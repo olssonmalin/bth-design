@@ -1,0 +1,27 @@
+// HEADER
+.header {
+    ul {
+        display: flex;
+        justify-content: center;
+        
+    }
+}
+
+.site-header {
+    display: flex;
+    
+    .title {
+        align-self: center;
+        display: flex;
+        flex-direction: column;
+        margin-left: 50px;
+    }
+    
+    img {
+        width: 150px;
+    }
+}
+
+.hidden {
+    display: none;
+}

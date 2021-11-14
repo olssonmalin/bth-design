@@ -1,0 +1,45 @@
+
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+@import '../../node_modules/normalize.css/normalize';
+@import 'variables';
+
+@import 'blockquotes';
+@import 'code';
+
+// BASE
+
+html {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: $background-color;
+    width: $third-width;
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: $default-photo-width;
+}
+
+* {
+    color: $font-color;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+// LAYOUT
+
+@import 'index';
+@import 'header';
+@import 'footer';
+@import 'media';

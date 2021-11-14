@@ -2,10 +2,10 @@
 Logo: image/fox.png
 Tagline: My portfolio.
 Social:
-    - title: Link till sidans github repo.
+    - title: Link till mitt github repo.
       url: https://github.com/olssonmalin/bth-design
-      icon: github-square
+      icon: fab fa-github
     - title: Rickrolled.
       url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-      icon: fab fa-youtube-square
+      icon: fab fa-youtube
 ---
