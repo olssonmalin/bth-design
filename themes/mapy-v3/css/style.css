@@ -6632,6 +6632,7 @@ h6 {
 @media (max-width: 530px) {
   .technologies-grid {
     grid-template-columns: 100%;
+    margin: 0 7px 10px;
   }
 
   .technologies-grid h1 {
@@ -6640,6 +6641,7 @@ h6 {
 
   .technology-grid {
     grid-template-columns: 100%;
+    margin: 0 7px 10px;
   }
 
   .technology-grid .main {

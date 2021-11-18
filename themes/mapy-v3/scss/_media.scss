@@ -8,6 +8,7 @@
 @media (max-width: $media-width-phone) {
     .technologies-grid {
         grid-template-columns: 100%;
+        margin: 0 7px 10px;
     }
 
     .technologies-grid h1 {
@@ -16,6 +17,7 @@
 
     .technology-grid {
         grid-template-columns: 100%;
+        margin: 0 7px 10px;
     }
 
     .technology-grid .main {
