@@ -1,0 +1,37 @@
+// HEADER
+
+.header ul {
+    display: flex;
+    justify-content: center;
+}
+
+.site-header {
+    display: flex;
+    
+    .title {
+        align-self: center;
+        display: flex;
+        flex-direction: column;
+        margin-left: 50px;
+    }
+    
+    img {
+        width: 150px;
+    }
+
+}
+
+.nav a {
+    font-family: 'Merriweather', serif;
+    border-bottom: 1px solid $background-color;
+}
+
+.hidden {
+    display: none;
+}
+
+.site-header h1,
+.site-header p {
+    color: $accent-color;
+    font-family: 'Merriweather', serif;
+}

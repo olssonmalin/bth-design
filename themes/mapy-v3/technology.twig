@@ -1,0 +1,19 @@
+{% include 'incl/header.twig' %}
+
+<body>
+    {% include 'incl/nav.twig' %}
+    <section class="technology-grid">
+    <div class="main" role="main">
+        {{ content }}
+    </div>
+    <div class="aside">
+    <h3> Andra teknologier: </h3>
+        {% for page in pages("technology")%}
+            <a class="hover" href="{{ page.url }}">{{ page.title }}</a>
+        {% endfor %}
+    </div>
+    </section>
+    {% include 'incl/footer.twig' %}
+</body>
+
+</html>

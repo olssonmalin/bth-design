@@ -1,0 +1,11 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    flex-shrink: 0;
+    border-top: solid 2px $accent-color;
+    padding-top: 5px;
+}
+
+.footer .social {
+    font-size: 2em;
+}

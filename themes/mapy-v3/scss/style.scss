@@ -13,32 +13,18 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import 'code';
 
 // BASE
-
-html {
-    display: flex;
-    justify-content: center;
-}
-
-body {
-    background-color: $background-color;
-    width: $third-width;
-    display: flex;
-    flex-direction: column;
-}
-
-img {
-    width: $default-photo-width;
-}
-
-* {
-    color: $font-color;
-    text-decoration: none;
-    font-family: 'Roboto', sans-serif;
-}
+@import 'base';
 
 // LAYOUT
 
 @import 'index';
 @import 'header';
 @import 'footer';
+@import 'technologies';
+@import 'technology';
+
+// MEDIA
 @import 'media';
+
+//STATE
+@import 'state';

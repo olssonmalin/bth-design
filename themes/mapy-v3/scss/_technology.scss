@@ -1,0 +1,24 @@
+.technology-grid {
+    grid-row-start: 2;
+    display: grid;
+    gap: 1em 2em;
+    grid-template: 100% / 2fr 1fr 6fr;
+    flex: 1 0 auto;
+}
+
+.aside {
+    grid-column: 1 / 1;
+    order: -1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 300px;
+}
+
+.technology-grid .main {
+    grid-column: 3 / 3;
+}
+
+.aside a {
+    border-bottom: 1px solid $background-color;
+}

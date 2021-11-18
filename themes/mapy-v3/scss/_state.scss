@@ -1,0 +1,28 @@
+.hover:hover {
+    border-bottom: 1px solid;
+    border-color: $accent-color;
+    transition: border-color 0.5s;
+}
+
+.hover-text:hover {
+    transition: 2ms;
+    color: $accent-color;
+}
+
+.active a {
+    color: $accent-color;
+    text-shadow: 0 0 1px $shadow-color;
+}
+
+.box:hover {
+    transition: border-color 0.5s;
+    // transition: box-shadow 0.5s;
+
+    border-color: $accent-color;
+    box-shadow: 0 0 2px 0 $shadow-color;
+}
+
+.footer .social:hover {
+    color: $accent-color;
+    transition: color 2ms;
+}

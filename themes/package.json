@@ -9,7 +9,7 @@
   },
   "scripts": {
     "lint": "stylelint \"**/*.scss\"",
-    "style": "sass mapy-v2/scss/style.scss mapy-v2/css/style.css --no-source-map",
+    "style": "sass mapy-v3/scss/style.scss mapy-v3/css/style.css --no-source-map",
     "style-min": "sass kmom02/scss/style.scss kmom02/css/style.min.css --no-source-map --style compressed"
   },
   "keywords": [],
