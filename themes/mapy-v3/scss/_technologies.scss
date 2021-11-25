@@ -13,3 +13,7 @@
     border: solid 2px $font-alternative-color;
     padding: 1rem;
 }
+
+.box:last-child {
+    grid-column: 1 / span 3;
+}

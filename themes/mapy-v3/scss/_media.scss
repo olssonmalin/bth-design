@@ -3,11 +3,24 @@
         width: 100vw;
         margin: 10px;
     }
+    
+    .aside {
+        display: none;
+    }
+
+    .technology-grid {
+        grid-template-columns: 100%;
+        margin: 0 7px 10px;
+    }
+
+    .technology-grid .main {
+        grid-column: 1 / 1;
+    }
 }
 
 @media (max-width: $media-width-smaller) {
     body {
-        width: 100vw;
+        width: 90vw;
         margin: 10px;
     }
 
@@ -33,17 +46,12 @@
         grid-column: 1 / 1;
     }
 
-    .technology-grid {
-        grid-template-columns: 100%;
-        margin: 0 7px 10px;
-    }
-
-    .technology-grid .main {
+    .box:last-child {
         grid-column: 1 / 1;
     }
 
-    .aside {
-        display: none;
+    .nav .theme a {
+        margin-top: 5px;
     }
 
 }

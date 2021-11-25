@@ -10,7 +10,13 @@
   "scripts": {
     "lint": "stylelint \"**/*.scss\"",
     "style": "sass mapy-v3/scss/style.scss mapy-v3/css/style.css --no-source-map",
-    "style-min": "sass kmom02/scss/style.scss kmom02/css/style.min.css --no-source-map --style compressed"
+    "style-min": "sass kmom02/scss/style.scss kmom02/css/style.min.css --no-source-map --style compressed",
+    "watch": "sass mapy-v3/scss/style.scss:mapy-v3/css/style.css mapy-v3/scss/style-dark.scss:mapy-v3/css/style-dark.css --no-source-map --watch",
+    "watch-min": "sass mapy-v3/scss/style.scss:mapy-v3/css/style.min.css mapy-v3/scss/style-dark.scss:mapy-v3/css/style-dark.min.css --no-source-map --watch --style compressed",
+    "style-dark": "sass mapy-v3/scss/style-dark.scss mapy-v3/css/style-dark.css --no-source-map",
+    "style-dark-min": "sass mapy-v3/scss/style-dark.scss mapy-v3/css/style-dark.min.css --no-source-map --style compressed",
+    "style-light": "sass mapy-v3/scss/style.scss mapy-v3/css/style.css --no-source-map",
+    "style-light-min": "sass mapy-v3/scss/style.scss mapy-v3/css/style.min.css --no-source-map --style compressed"
   },
   "keywords": [],
   "author": "",

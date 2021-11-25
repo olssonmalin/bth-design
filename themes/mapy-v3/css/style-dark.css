@@ -6462,20 +6462,20 @@ blockquote {
 code {
   margin: 0 0.1em;
   padding: 0.1em 0.2em;
-  border: 1px solid #023047;
+  border: 1px solid #ffb703;
   border-radius: 0.3em;
-  background: #023047;
+  background: #8ecae6;
   font-family: monospace;
   font-size: 0.85rem;
   line-height: 1.9824;
-  color: #f8f8ff;
+  color: #023047;
 }
 
 pre {
   padding: 0 1em;
-  border: 1px solid #023047;
+  border: 1px solid #8ecae6;
   border-radius: 0.3em;
-  background: #023047;
+  background: #8ecae6;
   white-space: pre-wrap;
 }
 
@@ -6497,7 +6497,7 @@ html {
 }
 
 body {
-  background-color: #f8f8ff;
+  background-color: #023047;
   width: 66.6666666667%;
   display: flex;
   flex-direction: column;
@@ -6514,7 +6514,7 @@ img {
 
 * {
   text-decoration: none;
-  border-color: #a15600;
+  border-color: #fb8500;
 }
 
 p,
@@ -6523,7 +6523,7 @@ td,
 th,
 li {
   font-family: "Roboto", sans-serif;
-  color: #023047;
+  color: #8ecae6;
 }
 
 h1,
@@ -6533,7 +6533,7 @@ h4,
 h5,
 h6 {
   font-family: "Merriweather", serif;
-  color: #023047;
+  color: #8ecae6;
 }
 
 .malin-img {
@@ -6560,7 +6560,7 @@ h6 {
 
 .nav a {
   font-family: "Merriweather", serif;
-  border-bottom: 1px solid #f8f8ff;
+  border-bottom: 1px solid #023047;
 }
 
 .hidden {
@@ -6569,12 +6569,12 @@ h6 {
 
 .site-header h1,
 .site-header p {
-  color: #a15600;
+  color: #fb8500;
   font-family: "Merriweather", serif;
 }
 
 .nav .theme a {
-  border: 2px solid #023047;
+  border: 2px solid #8ecae6;
   border-radius: 3px;
   font-size: 0.7rem;
   padding: 2px;
@@ -6585,7 +6585,7 @@ h6 {
   display: flex;
   justify-content: space-between;
   flex-shrink: 0;
-  border-top: solid 2px #a15600;
+  border-top: solid 2px #fb8500;
   padding-top: 5px;
   margin-top: 10px;
 }
@@ -6605,7 +6605,7 @@ h6 {
 }
 
 .box {
-  border: solid 2px #023047;
+  border: solid 2px #8ecae6;
   padding: 1rem;
 }
 
@@ -6638,7 +6638,7 @@ h6 {
 }
 
 .aside a {
-  border-bottom: 1px solid #f8f8ff;
+  border-bottom: 1px solid #023047;
 }
 
 @media (max-width: 767px) {
@@ -6695,26 +6695,26 @@ h6 {
 }
 .hover:hover {
   border-bottom: 1px solid;
-  border-color: #a15600;
+  border-color: #fb8500;
   transition: border-color 0.5s;
 }
 
 .hover-text:hover {
   transition: 2ms;
-  color: #a15600;
+  color: #fb8500;
 }
 
 .active a {
-  color: #a15600;
+  color: #fb8500;
 }
 
 .box:hover {
   transition: border-color 0.5s;
-  border-color: #a15600;
-  box-shadow: 0 0 2px 0 #023047;
+  border-color: #fb8500;
+  box-shadow: 0 0 2px 0 #ffb703;
 }
 
 .footer .social:hover {
-  color: #a15600;
+  color: #fb8500;
   transition: color 2ms;
 }

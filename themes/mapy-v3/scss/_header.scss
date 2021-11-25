@@ -35,3 +35,11 @@
     color: $accent-color;
     font-family: 'Merriweather', serif;
 }
+
+.nav .theme a {
+    border: 2px solid $font-color;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    padding: 2px;
+    align-self: center;
+}

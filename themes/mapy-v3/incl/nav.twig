@@ -27,6 +27,12 @@
                         <a {% if page.id!=current_page.id %} class="hover" {% endif %} href="{{ page.url }}">{{ page.title }}</a>
                     </li>
                 {% endfor %}
+                <li class="theme">
+                    <a href="?action=session_destroy">Destroy Session</a>
+                </li>
+                <li class="theme">
+                    <a href="?action=theme">Swap theme</a>
+                </li>
             </ul>
         </div>
     </div>
