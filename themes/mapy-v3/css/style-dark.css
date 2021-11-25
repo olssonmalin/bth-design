@@ -6546,12 +6546,13 @@ h6 {
 }
 
 .site-header {
-  display: flex;
+  display: inline-flex;
 }
 .site-header .title {
   align-self: center;
   display: flex;
   flex-direction: column;
+  align-items: center;
   margin-left: 50px;
 }
 .site-header img {
@@ -6649,6 +6650,14 @@ h6 {
 
   .aside {
     display: none;
+  }
+
+  .site-header {
+    justify-content: space-between;
+  }
+
+  .site-header .title {
+    margin: 0;
   }
 
   .technology-grid {

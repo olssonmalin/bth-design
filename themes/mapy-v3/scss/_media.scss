@@ -7,6 +7,14 @@
     .aside {
         display: none;
     }
+    
+    .site-header {
+        justify-content: space-between;
+    }
+
+    .site-header .title {
+        margin: 0;
+    }
 
     .technology-grid {
         grid-template-columns: 100%;
