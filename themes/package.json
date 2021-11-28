@@ -9,7 +9,7 @@
   },
   "scripts": {
     "lint": "stylelint \"**/*.scss\"",
-    "style": "sass mapy-v3/scss/style.scss mapy-v3/css/style.css --no-source-map",
+    "style": "npm run style-light && npm run style-dark",
     "style-min": "sass kmom02/scss/style.scss kmom02/css/style.min.css --no-source-map --style compressed",
     "watch": "sass mapy-v3/scss/style.scss:mapy-v3/css/style.css mapy-v3/scss/style-dark.scss:mapy-v3/css/style-dark.css --no-source-map --watch",
     "watch-min": "sass mapy-v3/scss/style.scss:mapy-v3/css/style.min.css mapy-v3/scss/style-dark.scss:mapy-v3/css/style-dark.min.css --no-source-map --watch --style compressed",
