@@ -1,5 +1,5 @@
 ---
-Title: Analyzes
+Title: Analysis
 Description: Technologies page - Kmom03
-Template: analyzes
+Template: analysis
 ---

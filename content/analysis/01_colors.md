@@ -94,13 +94,13 @@ Färgschema i Oktober:
 </tr>
 </table>
 
-Typ av färgschema:
+**Typ av färgschema:**
 Akromatisk med accent-färg alt. helt monokromatiskt.
 
-Typsnitt:
-Graphic **KOLLA UPP** på hela webbplatsen. Sans-serif.
+**Typsnitt:**
+Graphic på hela webbplatsen. Sans-serif.
 
-Kommentar:
+**Kommentar:**
 Färgschemat och typsnittet ligger väl i linje med Berghains rykte som techno-instutition.
 
 ###Columbia Theater:
@@ -138,14 +138,14 @@ Färgernas position på färghjul:
 ![Columbias färger i färhjul](%assets_url%/img/color/cw-columbia.png) {.colorwheel-img}
 
 
-Typ av färgschema:
+**Typ av färgschema:**
 Monokromatiskt med en accentfärg (#F46D69).
 
-Typsnitt:
+**Typsnitt:**
 Blandning av rubikregular och rubikmedium, sans-serif.
 
-Kommentar:
-Starka färger, nu äre fest!
+**Kommentar:**
+Starka färger som passar webbplatsens syfte.
 
 ###Gedänkstätte Berliner Mauer
 Bild på hemsidan:
@@ -179,40 +179,73 @@ Färgernas position på färghjul:
 ![Gedänkstätte Berliner Mauer's färger i färhjul](%assets_url%/img/color/cw-berlinermauer.png) {.colorwheel-img}
 
 
-Typ av färgschema:
+**Typ av färgschema:**
 Helt och hållet monokromatiskt.
 
-Typsnitt:
-Verdana all the way, sans-serif.
+**Typsnitt:**
+Verdana helt och hållet, sans-serif.
 
-Kommentar:
+**Kommentar:**
 Typsnitt är passande för museum. Färgschemat något skevt.
 
 Analys
 -----------------------
-###Berghain:
+###Berghain
 
-- monikromatisk / akromatiskt + accentfärg?
-- designen ändras beroende på bild i header
-- DCA883 antingen accent eller del a monoschema
-- klubb, label och agency (ostgut), konsertlokal (Kantine) mm. 
-- DCA883 - mänsklig/hud/få röra sig bland människor igen
+####Färgschema
 
-###Columbia Theater:
+Berghain's webbplats har ett monokromatiskt färgschema i gråskala. Med tanke på hur dominant nyanser av grått är på webbplatsen skulle man kunna säga att den gränsar till att vara akromatisk, dvs. utan färg. Berghain använder en ny accent-färg varje månad beroende på vilken konstnär de har i headern längst upp. Det går att argumentera för att accentfärgerna i sig skulle vara del av ett monokromatiskt färgschema, eftersom det går att komma från accentfärgerna till en av de gråa färgerna om man ändrar färgmättnad. 
+
+Berghain's webbplats har ett färgschema i gråskala. Det är svårt att avgöra exakt vilket typ av färgschema webbplatsen använder, men det kanske bäst beskrivande ordet vore <i>akromatiskt</i>. Färgschemat på webbplatsen följer nämligen inte någon traditionell färgteori utan består av några gråa färger som funkar väl ihop. Detta kompletteras sedan av en accentfärg som ändras månatligen. I November var färgen en beige naturlig färg som för tankarna till hud. I Oktober var det en mörkrosa färg. 
+
+####Färgval
+
+Huvuddelen av webbplatsen är i olika nyanser av grått, främst åt det mörkare hållet, nästan gränsande på svart. Det mörka färgschemat kan påminna om natten vilket är passande för en nattklubb. Accentfärgen ändras beroende på månad; under November var det en naturlig beige färg som drar tankarna mot hud. I Oktober var det en mörkrosa färg. Accentfärgerna verkar justeras mer utifrån vilket konstverk som visas längst upp på sidan snarare än att förmedla en särskild känsla. De drar fokus mot de viktigaste delarna av webbplatsen, exempelvis nästkommande evenemang.
+
+####Typsnitt
+
+Webbplatsen använder bara ett typsnitt, vilket är ett sans-serif-typsnitt som heter Graphik. Eftersom det inte är särskilt mycket text (största delen av texten är rubriker av olika slag) funkar ett typsnittet väl. Det ger ett enkelt intryck och är lätt att läsa.
 
 
-###Gedänkstätte Berliner Mauer:
+###Columbia Theater
+
+####Färgschema
+
+De färger som används på Columbia Teaters webbplats är främst nyanser av grön-blått, en nyans av rött tillsammans med vit bakgrund och mörkgrå text. De gråa nyanserna tillsammans med de grön-blåa bildar ett monokromatisk färgschema då dessa färger ligger i en rak linje i samma del av färghjulet. Nyansen av röd ligger utanför denna del av färghjulet. Om den hade legat mer i den oranga delen av färghjulet hade den kunnat ingå i ett komplement färgschema. Eftersom den röda färgen inte passar in i det övriga färgschemat och den används för att förstärka detaljer på webbplatsen är det en accentfärg.
+
+####Färgval
+
+Den dominerande färgen (förutom vitt) på Columbia Teaters webbplats är grön-blå. Den märks först på deras hemsida som bakgrundsfärg för navigeringen. Den används också som bakgrundsfärg för deras galleri av bilder. Grön anses ge ett intryck av natur för besökare men kan också signalera rikedom, stabilitet och utbildning. [^5]
+Columbia Teater har ett blandat utbud av konserter och evenemang, där olika evenemang drar olika målgrupper. Den gröna färgen kan därför möjligtvis inge en känsla av trygghet i ett annars spretigt utbud. Webbplatsens primära mål måste antas vara att ge besökare information om de olika föreställningarna och underlätta bokning av biljetter till dessa. Detta kan vara en anledning till valet av en röd, aktiv färg som bakgrund till element som visar viktig information, så som datum för föreställningar eller knappen för att köpa biljetter. Röd färg anses stimulera adrenalin och blodtryck [^6] - man blir "hypad" - därför kan denna användning av färgen vara effektiv för webbplatsens syfte. Till exempel syns knappen för att boka biljetter väl i sidorna där man kan läsa om specifika föreställningar, vilket drar ögonen till sig och möjligtvis ökar chansen att en besökare trycker på knappen.
+
+####Typsnitt
+
+Webbplatsen använder enbart ett typsnitt med två olika font weights. De två typsnitten är rubik regular och rubik medium. Rubik regular har en font-weight på 400 och används mest på sidan för brödtext medans rubik medium med font-weight på 500 främst används för knappar och rubriker. Webbplatsen ger ett enhetligt och balanserat intryck när det kommer till text.
+
+###Gedänkstätte Berliner Mauer
+
+####Färgschema
+
+Gedänkstätte Berliner Mauer's webbplats består av ett tydligt monokromatiskt färgschema i röda nyanser. Tillsammans med de röda nyanserna används också mörkgrått och vitt för text och bakgrund. Det används ingen accentfärg som fallar utanför färgschemat. 
+
+####Färgval
+
+Grunden till färgvalet för webbplatsen kan vara att den byggnad som museet ligger i är röd och även det tilhörande minnesmärke. Däremot brukar dessa mörkaröda färger förknippas med romantik och passion men också lyx. I och med att webbplatsen hör till ett minnesmuseum om Berlinmuren kanske dessa anknytningar inte ger det intryck som webbplatsen eftersträvar. Däremot har rött också en förmåga att stimulera adrenalin som kan ligga till grund till färgvalet, att det röda representerar blod och allvar som ger besökaren en alarmistisk känsla.
+
+####Typsnitt
+Webbplatsen använder enbart ett typsnitt med lite olika font-weights och storlek. Typsnittet är Verdana, vilket är ett generiskt typsnitt de flesta datorer har tillgängligt. På grund av mängden text på hemsidan kombinerat med den lilla storleken är det svårt att veta exakt vart man ska kolla. Typografin på webbplatsen känns helt enkelt inte särskilt modern.
 
 
 Övrigt
 -----------------------
 
-Skriv ditt eget namn samt vilka gruppmedlemmar som deltog i att författa rapporten.
+Skrivet av mig (Malin Olsson) och Filip Lindberg.
 
 Referenser
 -----------------------
-
-[^1]: archive.org - Sparad version av berghain.berlin från 20/10/2021 - hämtad 26/11/2021: <br>https://web.archive.org/web/20211020135212/www.berghain.berlin/en/
+[^1]: https://www.berghain.berlin/en/
 [^2]: https://columbia-theater.de/ueber-uns/
 [^3]: https://www.berliner-mauer-gedenkstaette.de/en/
-[^4]: https://www.newyorker.com/magazine/2014/03/24/berlin-nights
+[^4]: archive.org - Sparad version av berghain.berlin från 20/10/2021 - hämtad 26/11/2021: <br>https://web.archive.org/web/20211020135212/www.berghain.berlin/en/
+[^5]: The Principles of Beautiful Web Design s.70
+[^6]: The Principles of Beautiful Web Design s.68

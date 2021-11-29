@@ -41,7 +41,6 @@
         flex-direction: column;
     }
 
-
 }
 
 @media (max-width: $media-width-phone) {
@@ -54,6 +53,15 @@
         grid-column: 1 / 1;
     }
 
+    .analysis-grid {
+        grid-template-columns: 100%;
+        margin: 0 7px 10px;
+    }
+
+    .analysis-grid h1 {
+        grid-column: 1 / 1;
+    }
+
     .box:last-child {
         grid-column: 1 / 1;
     }
@@ -63,3 +71,9 @@
     }
 
 }
+
+// @media (min-width: 35em) {
+//     .website-img {
+//         width: 35em;
+//     }
+// }
