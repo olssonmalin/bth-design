@@ -8,16 +8,18 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 $merriweather-font-path: '../../shared/googlefonts/Merriweather';
 $roboto-font-path: '../../shared/googlefonts/Roboto';
 @font-face {
-    src: url("#{$roboto-font-path}/Roboto-Regular.ttf") format("truetype");
+    src: url('#{$roboto-font-path}/Roboto-Regular.ttf') format('truetype');
 
-    font-family: "Roboto";
+    font-family: 'Roboto';
     font-weight: 400;
+    font-display: swap;
 }
 @font-face {
-    src: url("#{$merriweather-font-path}/Merriweather-Regular.ttf") format("truetype");
+    src: url('#{$merriweather-font-path}/Merriweather-Regular.ttf') format('truetype');
 
-    font-family: "Merriweather";
+    font-family: 'Merriweather';
     font-weight: 400;
+    font-display: swap;
 }
 
 @import '../../node_modules/normalize.css/normalize';
@@ -37,6 +39,7 @@ $roboto-font-path: '../../shared/googlefonts/Roboto';
 @import 'technologies';
 @import 'technology';
 @import 'analysis';
+@import 'gallery';
 
 // MEDIA
 @import 'media';

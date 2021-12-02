@@ -24,6 +24,10 @@
     .technology-grid .main {
         grid-column: 1 / 1;
     }
+
+    .gallery {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 @media (max-width: $media-width-smaller) {
@@ -44,6 +48,7 @@
 }
 
 @media (max-width: $media-width-phone) {
+    .gallery,
     .technologies-grid {
         grid-template-columns: 100%;
         margin: 0 7px 10px;
