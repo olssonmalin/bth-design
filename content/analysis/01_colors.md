@@ -194,8 +194,6 @@ Analys
 
 ####Färgschema
 
-Berghain's webbplats har ett monokromatiskt färgschema i gråskala. Med tanke på hur dominant nyanser av grått är på webbplatsen skulle man kunna säga att den gränsar till att vara akromatisk, dvs. utan färg. Berghain använder en ny accent-färg varje månad beroende på vilken konstnär de har i headern längst upp. Det går att argumentera för att accentfärgerna i sig skulle vara del av ett monokromatiskt färgschema, eftersom det går att komma från accentfärgerna till en av de gråa färgerna om man ändrar färgmättnad. 
-
 Berghain's webbplats har ett färgschema i gråskala. Det är svårt att avgöra exakt vilket typ av färgschema webbplatsen använder, men det kanske bäst beskrivande ordet vore <i>akromatiskt</i>. Färgschemat på webbplatsen följer nämligen inte någon traditionell färgteori utan består av några gråa färger som funkar väl ihop. Detta kompletteras sedan av en accentfärg som ändras månatligen. I November var färgen en beige naturlig färg som för tankarna till hud. I Oktober var det en mörkrosa färg. 
 
 ####Färgval
