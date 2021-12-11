@@ -20,8 +20,15 @@
 
 .website-img {
     width: 80%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: $border-color;
 }
 
 .colorwheel-img {
     width: 30%;
+}
+
+.load-table {
+    width: 100%;
 }

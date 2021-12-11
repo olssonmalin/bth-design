@@ -2,7 +2,7 @@
 
 <body>
     {% include 'incl/nav.twig' %}
-    <div class="main" role="main">
+    <div class="main gallery-content" role="main">
         {{ content }}
     <h1>{{ meta.title }}</h1>
     <div class="gallery">
@@ -16,7 +16,7 @@
     <source srcset="{{ base_url }}/image/gallery/artic-fox.jpg?h=200&w=200&crop-to-fit&area=0,20,0,0&q=90" media="(min-width: 768px)">
     <source srcset="{{ base_url }}/image/gallery/artic-fox.jpg?h=250&w=250&crop-to-fit&area=0,20,0,0&q=90" media="(min-width: 532px)">
     <source srcset="{{ base_url }}/image/gallery/artic-fox.jpg?h=350&w=350&crop-to-fit&area=0,20,0,0&q=90" media="(min-width: 480px)">
-    <img src="{{ base_url }}/image/gallery/artic-fox.jpg?h=260&w=260&crop-to-fit&area=0,20,0,0">
+    <img alt="En fjällräv som kollar till höger" src="{{ base_url }}/image/gallery/artic-fox.jpg?h=260&w=260&crop-to-fit&area=0,20,0,0">
     </picture>
     </a>
 
@@ -29,7 +29,7 @@
     <source srcset="{{ base_url }}/image/gallery/chicken.jpg?h=200&w=200&crop-to-fit&q=90" media="(min-width: 768px)">
     <source srcset="{{ base_url }}/image/gallery/chicken.jpg?h=250&w=250&crop-to-fit&q=90" media="(min-width: 532px)">
     <source srcset="{{ base_url }}/image/gallery/chicken.jpg?h=350&w=350&crop-to-fit&q=90" media="(min-width: 480px)">
-    <img src="{{ base_url }}/image/gallery/chicken.jpg?h=260&w=260&crop-to-fit">
+    <img alt="Två gula kycklingar" src="{{ base_url }}/image/gallery/chicken.jpg?h=260&w=260&crop-to-fit">
     </picture>
 
     {# FOX #}
@@ -42,7 +42,7 @@
     <source srcset="{{ base_url }}/image/gallery/fox.jpg?h=200&w=200&crop-to-fit&area=0,10,0,0&q=90" media="(min-width: 768px)">
     <source srcset="{{ base_url }}/image/gallery/fox.jpg?h=250&w=250&crop-to-fit&area=0,10,0,0&q=90" media="(min-width: 532px)">
     <source srcset="{{ base_url }}/image/gallery/fox.jpg?h=350&w=350&crop-to-fit&area=0,10,0,0&q=90" media="(min-width: 480px)">
-    <img src="{{ base_url }}/image/gallery/fox.jpg?h=260&w=260&crop-to-fit&area=0,10,0,0">
+    <img alt="En röd räv" src="{{ base_url }}/image/gallery/fox.jpg?h=260&w=260&crop-to-fit&area=0,10,0,0">
     </picture>
     </a>
 
@@ -55,7 +55,7 @@
     <source srcset="{{ base_url }}/image/gallery/meercat.jpg?h=200&w=200&crop-to-fit&q=90" media="(min-width: 768px)">
     <source srcset="{{ base_url }}/image/gallery/meercat.jpg?h=250&w=250&crop-to-fit&q=90" media="(min-width: 532px)">
     <source srcset="{{ base_url }}/image/gallery/meercat.jpg?h=350&w=350&crop-to-fit&q=90" media="(min-width: 480px)">
-    <img src="{{ base_url }}/image/gallery/meercat.jpg?h=260&w=260&crop-to-fit">
+    <img alt="Två lemurer" src="{{ base_url }}/image/gallery/meercat.jpg?h=260&w=260&crop-to-fit">
     </picture>
     </a>
 
@@ -68,7 +68,7 @@
     <source srcset="{{ base_url }}/image/gallery/owl.jpg?h=200&w=200&crop-to-fit&area=0,0,30,0&q=90" media="(min-width: 768px)">
     <source srcset="{{ base_url }}/image/gallery/owl.jpg?h=250&w=250&crop-to-fit&area=0,0,30,0&q=90" media="(min-width: 532px)">
     <source srcset="{{ base_url }}/image/gallery/owl.jpg?h=350&w=350&crop-to-fit&area=0,0,30,0&q=90" media="(min-width: 480px)">
-    <img src="{{ base_url }}/image/gallery/owl.jpg?h=260&w=260&crop-to-fit&area=0,0,30,0">
+    <img alt="En uggla" src="{{ base_url }}/image/gallery/owl.jpg?h=260&w=260&crop-to-fit&area=0,0,30,0">
     </picture>
     </a>
 
@@ -81,14 +81,14 @@
     <source srcset="{{ base_url }}/image/gallery/sheep.jpg?h=200&w=200&crop-to-fit&area=20,0,0,0&q=90" media="(min-width: 768px)">
     <source srcset="{{ base_url }}/image/gallery/sheep.jpg?h=250&w=250&crop-to-fit&area=20,0,0,0&q=90" media="(min-width: 532px)">
     <source srcset="{{ base_url }}/image/gallery/sheep.jpg?h=350&w=350&crop-to-fit&area=20,0,0,0&q=90" media="(min-width: 480px)">
-    <img src="{{ base_url }}/image/gallery/sheep.jpg?h=260&w=260&crop-to-fit&area=20,0,0,0">
+    <img alt="Ett får som springer" src="{{ base_url }}/image/gallery/sheep.jpg?h=260&w=260&crop-to-fit&area=20,0,0,0">
     </picture>
     </a>
 
     </div>
 
     <div class="embed-container">
-    <iframe src="https://www.youtube.com/embed/Eg0iSIHIK34" frameborder="0" allowfullscreen></iframe>
+    <iframe title="Trailer to netflixs dancing with the birds" src="https://www.youtube.com/embed/Eg0iSIHIK34" frameborder="0" allowfullscreen></iframe>
 </div>  
     </div>
     

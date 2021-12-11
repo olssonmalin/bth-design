@@ -2,6 +2,7 @@
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
 .fa,
 .fas,
 .far,
@@ -6539,8 +6540,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Merriweather", serif;
+  font-family: "Permanent Marker", cursive;
   color: #023047;
+  letter-spacing: 3px;
 }
 
 .malin-img {
@@ -6575,7 +6577,14 @@ h6 {
   display: none;
 }
 
-.site-header h1,
+.site-header h1 {
+  font-family: "Permanent Marker", cursive;
+  color: #a15600;
+  font-size: 3em;
+  letter-spacing: 5px;
+  margin-bottom: 0;
+}
+
 .site-header p {
   color: #a15600;
   font-family: "Merriweather", serif;
@@ -6615,6 +6624,7 @@ h6 {
 .box {
   border: solid 2px #023047;
   padding: 1rem;
+  box-shadow: 0 6.4px 14.4px 0 rgba(0, 0, 0, 0.13), 0 1.2px 3.6px 0 rgba(0, 0, 0, 0.11);
 }
 
 .box:last-child {
@@ -6670,10 +6680,17 @@ h6 {
 
 .website-img {
   width: 80%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #a15600;
 }
 
 .colorwheel-img {
   width: 30%;
+}
+
+.load-table {
+  width: 100%;
 }
 
 .gallery {
@@ -6684,9 +6701,14 @@ h6 {
   justify-items: center;
 }
 
-.picture {
-  flex-shrink: 0;
-  flex-grow: 0;
+.gallery-content h1 {
+  text-align: center;
+}
+
+.gallery img {
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  border: #a15600 2px solid;
+  padding: 10px;
 }
 
 .embed-container {

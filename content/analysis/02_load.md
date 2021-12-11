@@ -29,21 +29,21 @@ Resultat
 -----------------------
 ### ICA
 ![ICAs webbplats](%assets_url%/img/load/ica.png) {.website-img}
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSecwwkd62xE4N1luuydbHr8z05i-kcgb8P6LFGXrqtHOdgOOYeRBFtRjwZdGahLaV9ge-WrjNAp_JV/pubhtml?gid=1391571426&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSecwwkd62xE4N1luuydbHr8z05i-kcgb8P6LFGXrqtHOdgOOYeRBFtRjwZdGahLaV9ge-WrjNAp_JV/pubhtml?gid=1391571426&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" class="load-table"></iframe>
 
 #### Förbättringspotential
 Enligt PageSpeed Insights innehåller webbplatsens kodbas JavaScript som inte används. Om detta åtgärdades skulle hemsidan enligt PageSpeed Insights kunna laddas ~0,33 sekunder snabbare.
 
 ### COOP
 ![COOPs webbplats](%assets_url%/img/load/coop.png) {.website-img}
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSecwwkd62xE4N1luuydbHr8z05i-kcgb8P6LFGXrqtHOdgOOYeRBFtRjwZdGahLaV9ge-WrjNAp_JV/pubhtml?gid=767820399&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSecwwkd62xE4N1luuydbHr8z05i-kcgb8P6LFGXrqtHOdgOOYeRBFtRjwZdGahLaV9ge-WrjNAp_JV/pubhtml?gid=767820399&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" class="load-table"></iframe>
 
 #### Förbättringspotential
 COOPs webbplats har också problem med oanvända skript men PageSpeed Insights indikerar också att det finns resurser som blockerar resten av webbplatsen från att ladda vilket försenar "First Paint". Enligt PageSpeed Insights hade detta kunnat spara ~0,51s laddtid.
 
 ### WILLYS
 ![Willys webbplats](%assets_url%/img/load/willys.png) {.website-img}
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSecwwkd62xE4N1luuydbHr8z05i-kcgb8P6LFGXrqtHOdgOOYeRBFtRjwZdGahLaV9ge-WrjNAp_JV/pubhtml?gid=1543509236&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSecwwkd62xE4N1luuydbHr8z05i-kcgb8P6LFGXrqtHOdgOOYeRBFtRjwZdGahLaV9ge-WrjNAp_JV/pubhtml?gid=1543509236&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" class="load-table"></iframe>
 
 #### Förbättringspotential
 Willys webbplats lider av samma problem som ICA och COOPs webbplatser gör, med oanvända skript och resurser som blockerar laddning av webbsidorna. Om dessa problem hade lösts skulle webbplatsen kunna spara ~0,53s enligt PageSpeed Insights. 
@@ -68,7 +68,7 @@ Utifrån de tester vi genomfört för rapporten upplever vi att laddtider från 
 
 Övrigt
 -----------------------
-Texten är skriven av mig (Filip Lindberg) och Malin Olsson.
+Texten är skriven av mig (Malin Olsson) och Filip Lindberg.
 
 
 Referenser

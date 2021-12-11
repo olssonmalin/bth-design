@@ -8,7 +8,7 @@
     <h1>{{ meta.title }}</h1>
     {% for page in pages("technology")%}
     <a class="box" href="{{ page.url }}">
-        <h3>{{ page.title }}</h3>
+        <h2>{{ page.title }}</h2>
         <p class="date ">{{ page.date_formatted }}</p>
         <p class="excerpt ">{{ page.description }}</p>
     </a>
